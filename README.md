@@ -1,4 +1,4 @@
-- Hi, I’m @RaphaelSena
+- Hi, I’m @raphael-sena
 - I’m interested in improving myself as a DEV
 - I’m currently learning Software Engineering on PUC-MG - Brazil
 - I’m looking to collaborate on many projects as they come to me
