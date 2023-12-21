@@ -39,6 +39,7 @@
 <h3 align="left">💾 Databases:</h3>
           <div>
                     <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+                    <a href="https://www.mongodb.com/"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />                           
           </div>
           
 <h3 align="left">🎋 ORM:</h3>
@@ -49,6 +50,7 @@
 <h3 align="left">🗄️ Servers:</h3>
           <div>
                     <a href="https://tomcat.apache.org/"> <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
+                    <a href="https://maven.apache.org/"> <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />                        
           </div>
 
 <h3 align="left">🕓 Version Control:</h3>
