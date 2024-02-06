@@ -10,6 +10,10 @@
 
 - 📫 My contact email: **rsenares1@gmail.com**
 
+- 📊 My stats:
+<br></br>
+![Raphael Sena GitHub stats](https://github-readme-stats.vercel.app/api?username=raphael-sena&show_icons=true&theme=highcontrast)
+
 <h3 align="left">💬 Social:</h3>
           <a href="https://www.linkedin.com/in/raphael-sena/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
