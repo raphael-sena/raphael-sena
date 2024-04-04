@@ -13,6 +13,9 @@
 - 📊 My stats:
 <br></br>
 ![Raphael Sena GitHub stats](https://github-readme-stats.vercel.app/api?username=raphael-sena&show_icons=true&theme=highcontrast)
+<br></br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=raphael-sena&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
 
 <h3 align="left">💬 Social:</h3>
           <a href="https://www.linkedin.com/in/raphael-sena/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
