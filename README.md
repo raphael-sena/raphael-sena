@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="320px" max-width="320px" width="320px" align="right" alt="Computador iuriCode">
 
-### Software Engineer | Backend Specialist
+### Software Engineer Student
 - 📍 Living in Belo Horizonte, Minas Gerais - Brazil
 - 👨‍🎓 I am a bachelors Software Engineering student at [PucMinas](https://www.pucminas.br/unidade/praca-da-liberdade/ensino/graduacao/Paginas/Engenharia-de-Software.aspx)
 - 💻 All of my projects are availabe [here](https://github.com/raphael-sena?tab=repositories)
