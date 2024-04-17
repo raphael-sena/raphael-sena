@@ -27,10 +27,10 @@
 <br></br>
 <div align="center">
   <a href="https://github.com/raphael-sena/">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-sena&layout=compact&hide_border=true&theme=react&bg_color=0D1117&title_color=49416D&icon_color=49416D"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-sena&layout=compact&hide_border=true&theme=react&bg_color=0,000000,0D1117&title_color=49416D&icon_color=49416D"/>
   </a>
   <a href="https://github.com/raphael-sena/">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphael-sena&show_icons=true&hide_border=true&theme=react&bg_color=0D1117&title_color=49416D&icon_color=49416D"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphael-sena&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,0D1117"/>
   </a>
 </div>
 
