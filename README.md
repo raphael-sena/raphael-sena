@@ -11,15 +11,16 @@
 ---
 
 ### Connect with me 🤝
-<p align="start">
-  <a href="https://www.linkedin.com/in/raphael-sena/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/raphael-sena/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white">
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/raphael-sena/raphael-sena/">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
+  <a href="https://raphaelsena.com">
+    <img src="https://img.shields.io/badge/Personal-Website-blue"/>
+  </a>
+
 
 ---
 
@@ -37,9 +38,10 @@
 ---
 
 ### 🛠️ Technologies & Tools
-- **Languages:** Java, JavaScript
-- **Frameworks:** Spring Boot, Node.js, Bootstrap
-- **Databases:** MySQL, PostgreSQL, OracleDB, MongoDB
+- **Backend:** Java, Node.js
+- **Frontend:** HTML, CSS, JavaScript, TailwindCSS, Typescript
+- **Frameworks:** Spring Boot, Bootstrap, Next.js, React
+- **Databases:** MySQL, PostgreSQL, MongoDB
 - **Others:** Git
 
 ---
