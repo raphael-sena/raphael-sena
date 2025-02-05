@@ -28,13 +28,19 @@
 <br></br>
 <div align="center">
   <a href="https://github.com/raphael-sena/">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-sena&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6C757D&text_color=6C757D"/>
+     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-sena&langs_count=6&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&card_width=360"/>
   </a>
   <a href="https://github.com/raphael-sena/">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphael-sena&show_icons=true&line_height=20&title_color=6C757D&icon_color=6C757D&text_color=6C757D&bg_color=FFFFFF"/>
+     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=raphael-sena&show_icons=true&line_height=20&title_color=134074&icon_color=134074&text_color=000000&bg_color=FFFFFF"/>
   </a>
   <a href="https://github.com/raphael-sena/">
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raphael-sena&show_icons=true&line_height=20&title_color=6C757D&icon_color=6C757D&text_color=6C757D&bg_color=FFFFFF"/>
+     <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=raphaelsena&show_icons=true&line_height=20&title_color=134074&icon_color=134074&text_color=000000&bg_color=FFFFFF&card_width=100"/>
+  </a>
+  <a href="https://github.com/raphael-sena/">
+    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raphael-sena&theme=default"/>
+  </a>
+  <a href="https://github.com/raphael-sena/">
+    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raphael-sena&theme=default&utcOffset=-3"/>
   </a>
 </div>
 
@@ -50,6 +56,10 @@
 ---
 
 <div align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=raphael-sena&label=Profile%20views&color=0e75b6&style=flat" alt="raphael-sena" /> 
-</div>
-          
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=raphael-sena&label=Profile%20views&color=0e75b6&style=flat" alt="raphael-sena" /> 
+  </a>
+  <a>
+    <img src="https://wakatime.com/badge/user/5fd978fd-1abf-4ea3-86a1-bb6c94d6bd88.svg"/>
+  </a>
+</div>          
