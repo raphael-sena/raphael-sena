@@ -17,21 +17,24 @@
   <a href="https://github.com/raphael-sena/raphael-sena/">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://raphaelsena.com">
-    <img src="https://img.shields.io/badge/Personal-Website-blue"/>
+  <a href="https://raphaelsena.com" target="_blank">
+    <img src="https://img.shields.io/badge/Personal-Website-black"/>
   </a>
 
 
 ---
 
--  My GitHub stats:
+###  My GitHub stats:
 <br></br>
 <div align="center">
   <a href="https://github.com/raphael-sena/">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-sena&layout=compact&hide_border=true&theme=react&bg_color=0,000000,0D1117&title_color=49416D&icon_color=49416D"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-sena&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6C757D&text_color=6C757D"/>
   </a>
   <a href="https://github.com/raphael-sena/">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphael-sena&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,0D1117"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphael-sena&show_icons=true&line_height=20&title_color=6C757D&icon_color=6C757D&text_color=6C757D&bg_color=FFFFFF"/>
+  </a>
+  <a href="https://github.com/raphael-sena/">
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raphael-sena&show_icons=true&line_height=20&title_color=6C757D&icon_color=6C757D&text_color=6C757D&bg_color=FFFFFF"/>
   </a>
 </div>
 
