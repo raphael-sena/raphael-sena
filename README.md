@@ -25,24 +25,56 @@
 ---
 
 ###  My GitHub stats:
-<br></br>
 <div align="center">
-  <a href="https://github.com/raphael-sena/">
-     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-sena&langs_count=6&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&card_width=360"/>
-  </a>
-  <a href="https://github.com/raphael-sena/">
-     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=raphael-sena&show_icons=true&line_height=20&title_color=134074&icon_color=134074&text_color=000000&bg_color=FFFFFF"/>
-  </a>
-  <a href="https://github.com/raphael-sena/">
-     <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=raphaelsena&show_icons=true&line_height=20&title_color=134074&icon_color=134074&text_color=000000&bg_color=FFFFFF&card_width=100"/>
-  </a>
-  <a href="https://github.com/raphael-sena/">
-    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raphael-sena&theme=default"/>
-  </a>
-  <a href="https://github.com/raphael-sena/">
-    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raphael-sena&theme=default&utcOffset=-3"/>
-  </a>
+  <table>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/raphael-sena/">
+         <img height="200em" src="https://github-readme-stats.vercel.app/api?username=raphael-sena&show_icons=true&line_height=20&title_color=134074&icon_color=134074&text_color=000000&bg_color=FFFFFF"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/raphael-sena/">
+          <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raphael-sena&theme=default&utcOffset=8"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/raphael-sena/">
+          <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raphael-sena&theme=default"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  <table/>
+  <table align="center">
+    <tr>
+     <td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>
+     <td align="center">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/raphael-sena/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic"/>
+      </td>
+      <td>
+        <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=raphaelsena&layout=compact&show_icons=true&line_height=20&title_color=134074&icon_color=134074&text_color=000000&bg_color=FFFFFF&card_width=100"/>
+      </td>
+    </tr>
+    <tr>
+     <td></td>
+     <td></td>
+    </tr> 
+  </table>
 </div>
+
 
 ---
 
