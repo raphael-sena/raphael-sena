@@ -25,56 +25,88 @@
 ---
 
 ###  My GitHub stats:
-<div align="center">
-  <table>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/raphael-sena/">
-         <img height="200em" src="https://github-readme-stats.vercel.app/api?username=raphael-sena&show_icons=true&line_height=20&title_color=134074&icon_color=134074&text_color=000000&bg_color=FFFFFF"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/raphael-sena/">
-          <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raphael-sena&theme=default&utcOffset=8"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/raphael-sena/">
-          <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raphael-sena&theme=default"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  <table/>
-  <table align="center">
-    <tr>
-     <td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>
-     <td align="center">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
-    </tr>
-    <tr>
-      <td>
-        <img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/raphael-sena/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic"/>
-      </td>
-      <td>
-        <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=raphaelsena&layout=compact&show_icons=true&line_height=20&title_color=134074&icon_color=134074&text_color=000000&bg_color=FFFFFF&card_width=100"/>
-      </td>
-    </tr>
-    <tr>
-     <td></td>
-     <td></td>
-    </tr> 
-  </table>
-</div>
 
+<div>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" colspan="2"><a href="https://wakatime.com/@raphaelsena">:watch: WakaTime</a></td>
+      </tr> 
+      <tr>
+        <td>
+          <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=raphaelsena&theme=dark&langs_count=12"/>
+        </td>
+        <td>
+          <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=raphaelsena&theme=dark&layout=compact"/>
+        </td>
+      </tr>
+    </table>
+    <table>
+      <tr>
+        <td align="center" colspan="3"></td>
+      </tr> 
+      <tr>
+        <td>
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raphael-sena&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+        </td>
+        <td>
+          <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-sena&theme=dark&locale=pt-br&langs_count=7"/>
+        </td>
+        <td>
+          <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-sena&layout=pie&theme=dark&locale=pt-br"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="3"></td>
+      </tr> 
+    </table>
+    <table>
+      <tr>
+        <td align="center" colspan="3"></td>
+      </tr> 
+      <tr>
+        <td>
+          <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raphael-sena&theme=github_dark"/>
+        </td>
+        <td>
+          <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raphael-sena&theme=github_dark"/>
+        </td>
+        <td>
+          <img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raphael-sena&theme=github_dark"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="3"></td>
+      </tr> 
+      <tr>
+        <td>
+          <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raphael-sena&theme=github_dark&utcOffset=8"/>
+        </td>
+        <td>
+          <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raphael-sena&theme=github_dark"/>
+        </td>
+        <td>
+          <img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=raphael-sena&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="3"></td>
+      </tr>
+    </table>
+  </div>
+<!--   <div align="center">
+    <table>
+      <tr>
+        <td align="center">:octocat: GitHub 5-Year Retrospective</td>
+      </tr>
+      <tr>
+       <td align="center">
+        <img src="https://raphael-sena.github.io/image/postspark_export_12-16-2024_17-14-32.png" alt="GitHub 5-Year Retrospective">
+       </td>
+      </tr>
+    </table>
+  </div> -->
+</div>
 
 ---
 
