@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="320px" max-width="320px" width="320px" align="right" alt="Computador iuriCode">
 
-### Software Engineer Student
+### Software Engineer
 - 📍 Living in Belo Horizonte, Minas Gerais - Brazil
 - 👨‍🎓 I am a bachelors Software Engineering student at [PucMinas](https://www.pucminas.br/unidade/praca-da-liberdade/ensino/graduacao/Paginas/Engenharia-de-Software.aspx)
 - 💻 All of my projects are availabe [here](https://github.com/raphael-sena?tab=repositories)
@@ -102,18 +102,16 @@
       </tr>
     </table>
   </div>
-<!--   <div align="center">
+  <div align="center">
     <table>
       <tr>
         <td align="center">:octocat: GitHub 5-Year Retrospective</td>
       </tr>
       <tr>
-       <td align="center">
-        <img src="https://raphael-sena.github.io/image/postspark_export_12-16-2024_17-14-32.png" alt="GitHub 5-Year Retrospective">
-       </td>
+        <td align="center"><img src="./images/github-contributions_3x_postspark_2025-10-06_11-24-54.png" alt="GitHub 5-Year Retrospective"></td>
       </tr>
     </table>
-  </div> -->
+  </div>
 </div>
 
 ---
