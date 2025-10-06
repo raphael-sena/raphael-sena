@@ -21,6 +21,14 @@
     <img src="https://img.shields.io/badge/Personal-Website-black"/>
   </a>
 
+---
+
+### 🛠️ Technologies & Tools
+- **Backend:** Java, Dart, Node.js
+- **Frontend:** TailwindCSS, Typescript
+- **Frameworks:** Spring Boot, Flutter, Next.js, React
+- **Databases:** MySQL, PostgreSQL
+- **Others:** Git
 
 ---
 
@@ -107,15 +115,6 @@
     </table>
   </div> -->
 </div>
-
----
-
-### 🛠️ Technologies & Tools
-- **Backend:** Java, Node.js
-- **Frontend:** HTML, CSS, JavaScript, TailwindCSS, Typescript
-- **Frameworks:** Spring Boot, Bootstrap, Next.js, React
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Others:** Git
 
 ---
 
